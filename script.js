@@ -20,7 +20,7 @@ document.getElementById('submit').addEventListener('click', function() {
         <td>${title}</td>
         <td>${author}</td>
         <td>${isbn}</td>
-        <td><button class="delete">Clear</button></td>
+        <td><button class="delete">X</button></td>
     `;
 
     // Append the new row to the table body
